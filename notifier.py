@@ -33,6 +33,6 @@ def send_daily_word(word_data):
         f"_{word_data['part_of_speech']}_\n\n"
         f"*{word_data['definition']}*\n\n"
         f"Example: {word_data['example']}\n\n"
-        f"[Read more]({word_data['url']})"
+        #f"[Read more]({word_data['url']})"
     )
     return send_telegram_message(message)
