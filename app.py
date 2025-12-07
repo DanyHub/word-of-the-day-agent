@@ -77,7 +77,7 @@ def index():
             <div class="word">{{ item.word }} <span class="pos">({{ item.part_of_speech }})</span></div>
             <div class="definition">{{ item.definition }}</div>
             <div class="example">"{{ item.example }}"</div>
-            <div class="link"><a href="{{ item.url }}" target="_blank">Read on Merriam-Webster</a></div>
+          /*  <div class="link"><a href="{{ item.url }}" target="_blank">Read on Merriam-Webster</a></div> */
         </div>
         {% endfor %}
 
