@@ -56,12 +56,12 @@ def index():
             .date { float: right; color: #95a5a6; font-size: 0.9em; }
             .definition { margin-top: 10px; line-height: 1.6; }
             .example { margin-top: 10px; background: #f9f9f9; padding: 10px; border-left: 4px solid #3498db; font-style: italic; }
-            .link { display: block; margin-top: 10px; text-align: right; }
-            a { color: #3498db; text-decoration: none; }
-            a:hover { text-decoration: underline; }
-            .controls { text-align: center; margin-bottom: 20px; }
-            button { background-color: #3498db; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 1em; }
-            button:hover { background-color: #2980b9; }
+            /*.link { display: block; margin-top: 10px; text-align: right; }*/
+            /*a { color: #3498db; text-decoration: none; }*/
+            /*a:hover { text-decoration: underline; }*/
+            /*.controls { text-align: center; margin-bottom: 20px; }*/
+            /*button { background-color: #3498db; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 1em; }*/
+            /* button:hover { background-color: #2980b9; }*/
         </style>
     </head>
     <body>
