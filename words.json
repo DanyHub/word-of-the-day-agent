@@ -206,5 +206,13 @@
         "example": "The museum has curated a retrospective exhibit of the artist's early works.",
         "date": "2025-12-31",
         "url": "https://www.merriam-webster.com/word-of-the-day"
+    },
+    {
+        "word": "amortize",
+        "part_of_speech": "verb",
+        "definition": "To amortize something, such as a mortgage, is to pay for it by making regular payments over a long period of time.",
+        "example": "If you apply extra payments directly to your loan balance as a principal reduction, your loan can be amortized sooner.",
+        "date": "2026-01-01",
+        "url": "https://www.merriam-webster.com/word-of-the-day"
     }
 ]
