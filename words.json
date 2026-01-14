@@ -310,5 +310,13 @@
         "example": "Some listeners took umbrage at the podcaster’s remarks about the event.",
         "date": "2026-01-13",
         "url": "https://www.merriam-webster.com/word-of-the-day"
+    },
+    {
+        "word": "delegate",
+        "part_of_speech": "verb",
+        "definition": "To delegate something (such as control, responsibility, authority, or a job or duty) is to trust someone else with it.",
+        "example": "Those tasks can be delegated to someone else.",
+        "date": "2026-01-14",
+        "url": "https://www.merriam-webster.com/word-of-the-day"
     }
 ]
