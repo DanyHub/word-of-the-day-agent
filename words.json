@@ -462,5 +462,13 @@
         "example": "Bigfoot is said to be a creature of gargantuan proportions.",
         "date": "2026-02-01",
         "url": "https://www.merriam-webster.com/word-of-the-day"
+    },
+    {
+        "word": "prescience",
+        "part_of_speech": "noun",
+        "definition": "Prescience is a formal word used to refer to the ability to see or anticipate what will or might happen in the future.",
+        "example": "He predicted the public's response to the proposed legislation with remarkable prescience.",
+        "date": "2026-02-02",
+        "url": "https://www.merriam-webster.com/word-of-the-day"
     }
 ]
