@@ -598,5 +598,13 @@
         "example": "The couple, undecided between country and city living, took the Goldilocks option and moved to a bustling college town surrounded by nature.",
         "date": "2026-02-18",
         "url": "https://www.merriam-webster.com/word-of-the-day"
+    },
+    {
+        "word": "syllogism",
+        "part_of_speech": "noun",
+        "definition": "Syllogism refers to a formal argument in logic that is formed by two statements and a conclusion which must be true if the two statements are true.",
+        "example": "An example of a syllogism is “All men are mortal; no gods are mortal; therefore no men are gods.”",
+        "date": "2026-02-19",
+        "url": "https://www.merriam-webster.com/word-of-the-day"
     }
 ]
