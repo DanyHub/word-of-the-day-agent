@@ -606,5 +606,13 @@
         "example": "An example of a syllogism is “All men are mortal; no gods are mortal; therefore no men are gods.”",
         "date": "2026-02-19",
         "url": "https://www.merriam-webster.com/word-of-the-day"
+    },
+    {
+        "word": "encapsulate",
+        "part_of_speech": "verb",
+        "definition": "Encapsulate literally means “to enclose in or as if in a capsule,” but the word is more often used figuratively as a synonym of summarize, to talk about showing or expressing a main idea or quality in a brief way.",
+        "example": "Can you encapsulate the speech in a single paragraph?",
+        "date": "2026-02-20",
+        "url": "https://www.merriam-webster.com/word-of-the-day"
     }
 ]
