@@ -614,5 +614,13 @@
         "example": "Can you encapsulate the speech in a single paragraph?",
         "date": "2026-02-20",
         "url": "https://www.merriam-webster.com/word-of-the-day"
+    },
+    {
+        "word": "laconic",
+        "part_of_speech": "adjective",
+        "definition": "Laconic describes someone or something communicating with few words. Laconic can more narrowly mean \"concise to the point of seeming rude or mysterious.\"",
+        "example": "The stand-up comedian is known for his laconic wit and mastery of the one-liner.",
+        "date": "2026-02-21",
+        "url": "https://www.merriam-webster.com/word-of-the-day"
     }
 ]
