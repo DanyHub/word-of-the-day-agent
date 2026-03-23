@@ -854,5 +854,13 @@
         "example": "Some consider (however ironically) french fries to be the apotheosis of U.S. cuisine.",
         "date": "2026-03-22",
         "url": "https://www.merriam-webster.com/word-of-the-day"
+    },
+    {
+        "word": "frenetic",
+        "part_of_speech": "adjective",
+        "definition": "Something described as frenetic is filled with excitement, activity, or confusion. The word is a synonym of frantic.",
+        "example": "The event was noisy and frenetic, which prompted us to leave early.",
+        "date": "2026-03-23",
+        "url": "https://www.merriam-webster.com/word-of-the-day"
     }
 ]
